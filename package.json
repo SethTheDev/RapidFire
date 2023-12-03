@@ -1,0 +1,16 @@
+{
+  "name": "rapidfire",
+  "version": "0.1.0",
+  "description": "A not so friendly minecraft server raider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThePython",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.14.0",
+    "mineflayer-movement": "^0.4.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
